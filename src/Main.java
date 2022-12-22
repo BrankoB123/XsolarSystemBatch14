@@ -6,5 +6,11 @@ public class Main {
         xx.sun=1;
         xx.Planet=2;
 
+        FeatureSun Xeron=new FeatureSun();
+
+                Xeron.Heat="1253436";
+                Xeron.size=1233763673;
+                Xeron.Temperature="3434";
+
     }
 }
