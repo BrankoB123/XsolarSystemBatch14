@@ -10,7 +10,7 @@ public class Main {
 
                 Xeron.Heat="1253436";
                 Xeron.size=1233763673;
-                Xeron.Temperature="3434";
+                Xeron.Temperature=700;
 
     }
 }
